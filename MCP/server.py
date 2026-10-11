@@ -26,6 +26,7 @@ def get_assignment(name: str) -> dict:
     return {"error": "Assignment not found", "available": list(assignments)}
 
 
+
 if __name__ == "__main__":
     # stdout belongs to the MCP protocol; send any debug prints to stderr.
     mcp.run(transport="stdio")
