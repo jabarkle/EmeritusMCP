@@ -1,0 +1,4 @@
+# Tested together with Python 3.14.6. Python 3.11+ recommended.
+mcp==2.2.0
+ollama==0.6.2
+# The GUI uses tkinter, included with most desktop Python installations.

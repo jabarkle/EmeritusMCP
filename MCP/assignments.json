@@ -1,0 +1,17 @@
+{
+  "Assignment 1": {
+    "title": "Build a basic agent",
+    "due": "2026-10-16 at 11:59 PM America/New_York",
+    "submission": "Upload your Python file to the course portal."
+  },
+  "Assignment 2": {
+    "title": "Add a tool",
+    "due": "2026-10-23 at 11:59 PM America/New_York",
+    "submission": "Upload your code and a screenshot of the tool call."
+  },
+  "Assignment 3": {
+    "title": "Connect an MCP server",
+    "due": "2026-10-30 at 11:59 PM America/New_York",
+    "submission": "Submit a GitHub link with your server and README."
+  }
+}
